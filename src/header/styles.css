@@ -1,0 +1,6 @@
+.header {
+  display: flex;
+  color: #f85c5c;
+  padding: 16px;
+  border-bottom: 1px solid rgb(56 68 77);
+}
